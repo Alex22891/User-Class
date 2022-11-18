@@ -1,0 +1,15 @@
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\bin\Debug\User Class.exe.config
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\bin\Debug\User Class.exe
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\bin\Debug\User Class.pdb
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\obj\Debug\User Class.csproj.AssemblyReference.cache
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\obj\Debug\MainWindow.g.cs
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\obj\Debug\App.g.cs
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\obj\Debug\User Class_MarkupCompile.cache
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\obj\Debug\User Class_MarkupCompile.lref
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\obj\Debug\MainWindow.baml
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\obj\Debug\User Class.g.resources
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\obj\Debug\User_Class.Properties.Resources.resources
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\obj\Debug\User Class.csproj.GenerateResource.cache
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\obj\Debug\User Class.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\obj\Debug\User Class.exe
+C:\Users\alexd\Desktop\Учеба\WPF\User Class\User Class\obj\Debug\User Class.pdb
